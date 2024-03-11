@@ -14,7 +14,7 @@ class Science extends Clg {
     }
 
     void display() {
-        super.display(); // Calling the display method of the superclass
+        super.display(); 
         System.out.println("Science Department\n");
     }
 }
@@ -24,7 +24,7 @@ class Commerce extends Clg {
         System.out.println("Commerce department\n");
     }
     void display() {
-        super.display(); // Calling the display method of the superclass
+        super.display(); 
         System.out.println("Commerce Department\n");
     }
 }
